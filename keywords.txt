@@ -1,0 +1,15 @@
+Components	KEYWORD1	
+greenLed	KEYWORD2
+redLed	KEYWORD2
+yellowLed	KEYWORD2
+buzzer	KEYWORD2
+motorOne	KEYWORD2
+motorTwo	KEYWORD2
+motorThree	KEYWORD2
+lcdGreen	KEYWORD2
+lcdYellow	KEYWORD2
+lcdRed	KEYWORD2
+usartSetup	KEYWORD2
+usartLoop	KEYWORD2
+setupRtcClock	KEYWORD2
+rtcClock	KEYWORD2
